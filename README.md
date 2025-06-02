@@ -5,8 +5,8 @@
 [![Email](https://img.shields.io/badge/Email-luxmikant@outlook.com-red?style=flat-square&logo=gmail)](mailto:luxmikant@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luxmikant-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luxmikant/)
 [![GitHub](https://img.shields.io/badge/GitHub-luxmikant-black?style=flat-square&logo=github)](https://github.com/luxmikant)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1QmDrlA5tY5WDuqscjL7yO0P7HGVrA3Gt/view?usp=sharing)
 [![Phone](https://img.shields.io/badge/Phone-7018209392-green?style=flat-square&logo=phone)](tel:7018209392)
-
 ---
 
 ## 🚀 About Me
