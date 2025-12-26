@@ -1,115 +1,101 @@
 <div align="center">
-  <h1>Hi, I'm Luxmikant! 👋</h1>
-  <p><strong>Architecting Scalable Solutions | AI Enthusiast | Open Source Contributor</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luxmikant&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</div>
 
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/luxmikant">
+      <img src="https://img.shields.io/badge/SPECIALIST-CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/luxmikant">
+      <img src="https://img.shields.io/badge/450+_SOLVED-LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+  </p>
+
+  <h3>🚀 Architecting the Future of Scalable Systems</h3>
+  
   <p>
-    <a href="mailto:luxmikant@outlook.com"><img src="https://img.shields.io/badge/Email-luxmikant@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/luxmikant/"><img src="https://img.shields.io/badge/LinkedIn-luxmikant-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://github.com/luxmikant"><img src="https://img.shields.io/badge/GitHub-luxmikant-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://drive.google.com/file/d/1QmDrlA5tY5WDuqscjL7yO0P7HGVrA3Gt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=googledrive" alt="Resume" /></a>
+    <a href="mailto:luxmikant@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/luxmikant/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/luxmikant"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🌌 The Journey So Far
+### 🌌 Mission Control
 
-I am a **Software Development Engineer** passionate about building high-impact applications that bridge the gap between complex data and user-centric design. Currently honing my craft at **Vellore Institute of Technology**.
+I am a **Software Development Engineer** at **Vellore Institute of Technology**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, **System Design**, and **Competitive Programming**.
 
-- 🔭 **Current Mission**: Contributing to **Flamenco Web Configuration Manager** and building **TraderLens-AI**.
-- 🧠 **Mindset**: Solving real-world problems through distributed systems and AI-driven insights.
-- ⚡ **Fun Fact**: I've conquered **450+ LeetCode challenges** and I'm a **Specialist** on Codeforces.
-
----
-
-### 🛠️ My Arsenal
-
-<details open>
-  <summary><b>Frontend & UI</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Systems</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Infrastructure & Tools</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  </p>
-</details>
+- 🔭 **Active Development**: [SharCRM](https://github.com/luxmikant/SharCRM) & [TraderLens-AI](https://github.com/luxmikant/TraderLens-AI)
+- ⚡ **Core Strength**: Algorithmic problem solving and backend architecture.
+- 🧠 **Philosophy**: *"Simplicity is the soul of efficiency."*
 
 ---
 
-### 🚀 Featured Work
+### 🛠️ Tech Stack & Arsenal
 
-#### 🟢 [SharCRM](https://github.com/luxmikant/SharCRM)
-> **AI-Assisted CRM Ecosystem**
-> A modern React + Vite frontend paired with an Express 5 backend that unifies customer data, AI-assisted campaigns, and health insights into one lime-themed CRM experience.
-
-#### 📈 [TraderLens-AI](https://github.com/luxmikant/TraderLens-AI)
-> **Intelligent Market Insights**
-> Leveraging Python and AI to provide deep analytical insights into market trends and trading patterns.
-
-#### 💻 [Codegiest2025](https://github.com/luxmikant/Codegiest2025)
-> **Latest Innovation**
-> My most recent exploration into cutting-edge web technologies and performance optimization.
-
-#### 🏥 [Healthcare Resource Optimization](https://github.com/luxmikant/healthcare-platform)
-> **Lead Backend Developer**
-> Architected a high-performance EHR platform, reducing resource allocation processing time by **35%**.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vue,tailwind,nodejs,go,py,cpp,rust,docker,kubernetes,postgres,mongodb,git,linux,aws" />
+</div>
 
 ---
 
-### 🏆 Milestones
+### 🚀 Featured Projects
 
-- 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer).
-- 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0.
-- 🎯 **Competitive Programmer**: Specialist on Codeforces | 450+ LeetCode Solved.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟢 <a href="https://github.com/luxmikant/SharCRM">SharCRM</a></h4>
+      <p><i>AI-Assisted CRM Ecosystem</i></p>
+      <p>A modern React + Vite frontend with an Express 5 backend. Unifies customer data and AI-assisted campaigns into a high-performance experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://github.com/luxmikant/TraderLens-AI">TraderLens-AI</a></h4>
+      <p><i>Intelligent Market Insights</i></p>
+      <p>Leveraging Python and AI to provide deep analytical insights into market trends and trading patterns.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 <a href="https://github.com/luxmikant/Codegiest2025">Codegiest2025</a></h4>
+      <p><i>Latest Innovation</i></p>
+      <p>Exploration into cutting-edge web technologies and performance optimization for the next generation of web apps.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔧 <a href="https://github.com/luxmikant/flamenco-contribution">Flamenco Config</a></h4>
+      <p><i>Open Source Contribution</i></p>
+      <p>Contributing to the Web Configuration Manager for Flamenco, enhancing task distribution and UI responsiveness.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Luxmikant's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🎯 Competitive Arena
+### 🏆 Milestones & Recognition
 
-<div align="center">
-  <a href="https://leetcode.com/luxmikant"><img src="https://img.shields.io/badge/LeetCode-450%2B-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://codeforces.com/profile/luxmikant"><img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" /></a>
-  <a href="https://atcoder.jp/users/luxmikant"><img src="https://img.shields.io/badge/AtCoder-400-green?style=for-the-badge&logo=atcoder" /></a>
-</div>
+- 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer).
+- 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0.
+- 🎯 **Competitive Programming**: **Specialist** on Codeforces | **400** AtCoder | **450+** LeetCode.
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luxmikant&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br />
+  <img src="https://raw.githubusercontent.com/luxmikant/luxmikant/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br />
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
