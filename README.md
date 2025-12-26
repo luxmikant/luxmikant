@@ -50,6 +50,10 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
   <h4><b>SharCRM - AI-Powered CRM Ecosystem</b></h4>
   <p><i>"Enterprise-grade intelligence for every business."</i></p>
   
+  <!-- Project Screenshot -->
+  <img src="sharcrm-demo.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <br/><br/>
+
   <a href="https://www.sharcrm.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_App-brightgreen?style=for-the-badge&logo=render&logoColor=white" />
   </a>
