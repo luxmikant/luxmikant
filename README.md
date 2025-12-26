@@ -51,7 +51,9 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
   <p><i>"Enterprise-grade intelligence for every business."</i></p>
   
   <!-- Project Screenshot -->
-  <img src="sharcrm-demo.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://www.sharcrm.app/">
+    <img src="sharcrm-demo.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
   <br/><br/>
 
   <a href="https://www.sharcrm.app/">
@@ -88,11 +90,11 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Luxmikant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=tokyonight" alt="Luxmikant's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=tokyonight" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
