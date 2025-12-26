@@ -41,31 +41,40 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project: SharCRM
+
+<div align="center">
+  <a href="https://www.sharcrm.app/">
+    <img src="https://raw.githubusercontent.com/luxmikant/SharCRM/main/ma-sharvari-ki-jai/client/public/logo.svg" width="150" alt="SharCRM Logo" />
+  </a>
+  <h4><b>SharCRM - AI-Powered CRM Ecosystem</b></h4>
+  <p><i>"Enterprise-grade intelligence for every business."</i></p>
+  
+  <a href="https://www.sharcrm.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-brightgreen?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+  <a href="https://github.com/luxmikant/SharCRM">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<br/>
+
+> **Key Innovation**: Integrated **Google Gemini AI** for automated message generation and customer health scoring. Built with a high-performance **Express 5** backend and a glass-morphic **React + Vite** frontend.
+
+---
+
+### 📂 Other Innovations
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🟢 <a href="https://github.com/luxmikant/SharCRM">SharCRM</a></h4>
-      <p><i>AI-Assisted CRM Ecosystem</i></p>
-      <p>A modern React + Vite frontend with an Express 5 backend. Unifies customer data and AI-assisted campaigns into a high-performance experience.</p>
-    </td>
-    <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/luxmikant/TraderLens-AI">TraderLens-AI</a></h4>
-      <p><i>Intelligent Market Insights</i></p>
       <p>Leveraging Python and AI to provide deep analytical insights into market trends and trading patterns.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>💻 <a href="https://github.com/luxmikant/Codegiest2025">Codegiest2025</a></h4>
-      <p><i>Latest Innovation</i></p>
       <p>Exploration into cutting-edge web technologies and performance optimization for the next generation of web apps.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔧 <a href="https://github.com/luxmikant/flamenco-contribution">Flamenco Config</a></h4>
-      <p><i>Open Source Contribution</i></p>
-      <p>Contributing to the Web Configuration Manager for Flamenco, enhancing task distribution and UI responsiveness.</p>
     </td>
   </tr>
 </table>
@@ -75,11 +84,11 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Luxmikant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luxmikant&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Luxmikant's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxmikant&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxmikant&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,8 +103,6 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luxmikant&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br />
-  <img src="https://raw.githubusercontent.com/luxmikant/luxmikant/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br />
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
