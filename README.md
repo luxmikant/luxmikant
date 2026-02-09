@@ -112,3 +112,16 @@ I am a **Software Development Engineer** at **Vellore Institute of Technology**,
   <br />
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
+# GitHub Profile 3D Contrib
+
+The `GitHub-Profile-3D-Contrib` workflow keeps the generated contribution calendar for this repository up to date. You can trigger it manually from the Actions tab or wait for the nightly run.
+
+Once the workflow finishes it will populate `profile-3d-contrib/` with the latest renders. Pick the variation you like below and keep the reference in this README so the image stays visible.
+<!-- Night View Version -->
+![](./profile-3d-contrib/profile-night-view.svg)
+
+<!-- OR Night Green Version -->
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<!-- OR Night Rainbow Version -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
