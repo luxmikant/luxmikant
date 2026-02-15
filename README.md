@@ -25,7 +25,7 @@
 
 ### 🌌 Mission Control
 
-I am a **Final year cs student ** at **Vellore Institute of Technology**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, ** Backend System**, and **Competitive Programming**.
+I am a **Final year cs student** at **Vellore Institute of Technology**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, ** Backend System**, and **Competitive Programming**.
 
 - 🔭 **Active Development**: [SharCRM](https://github.com/luxmikant/SharCRM) & [TraderLens-AI](https://github.com/luxmikant/TraderLens-AI)
 - ⚡ **Core Strength**: Algorithmic problem solving and backend architecture.
