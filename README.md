@@ -4,28 +4,8 @@
 
 ---
 
-## 🏆 **Certified DevOps & Site Reliability Engineer**
-
-<div align="center">
-  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
-    <img src="https://images.credly.com/images/4d58f63a-4e13-4b08-a0b6-95f56c77b9de/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20%28LFS162%29.png" width="300" alt="LFS162 - Introduction to DevOps and Site Reliability Engineering" style="border-radius: 10px;" />
-  </a>
-  <br/>
-  <h4>📚 Linux Foundation Education</h4>
-  <p><strong>LFS162:</strong> Introduction to DevOps and Site Reliability Engineering</p>
-  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
-    <img src="https://img.shields.io/badge/View%20Credential-Credly-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="View on Credly" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <p align="center">
-    <!-- Academic Excellence -->
-    <a href="#">
-      <img src="https://img.shields.io/badge/CGPA-8.42-gold?style=for-the-badge&logo=graduationcap&logoColor=white" alt="CGPA 8.42" />
-    </a>
     <a href="https://github.com/luxmikant">
       <img src="https://img.shields.io/badge/SPECIALIST-CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
     </a>
@@ -35,6 +15,11 @@
   </p>
 
   <h3>🚀 Architecting the Future of Scalable Systems</h3>
+
+  <!-- DevOps & SRE Certification Badge -->
+  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
+    <img src="https://images.credly.com/images/4d58f63a-4e13-4b08-a0b6-95f56c77b9de/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20%28LFS162%29.png" width="280" alt="LFS162 - DevOps and Site Reliability Engineering" style="border-radius: 10px; margin: 20px 0;" />
+  </a>
   
   <p>
     <a href="mailto:luxmikant@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -47,7 +32,7 @@
 
 ### 🌌 Mission Control
 
-I am a **Final year CS student** at **Vellore Institute of Technology** with a **CGPA of 8.42**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, **Backend Systems**, **DevOps & SRE**, and **Competitive Programming**.
+I am a **Final year CS student** at **Vellore Institute of Technology**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, **Backend Systems**, **DevOps & SRE**, and **Competitive Programming**.
 
 - 🔭 **Active Development**: [SharCRM](https://github.com/luxmikant/SharCRM) & [TraderLens-AI](https://github.com/luxmikant/TraderLens-AI)
 - 🏗️ **DevOps & SRE Certified**: LFS162 - Introduction to DevOps and Site Reliability Engineering
@@ -125,7 +110,7 @@ I am a **Final year CS student** at **Vellore Institute of Technology** with a *
 - 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer)
 - 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0
 - 🎯 **Competitive Programming**: **Specialist** on Codeforces | **400** AtCoder | **450+** LeetCode
-- 📊 **Academic Excellence**: CGPA **8.42** at Vellore Institute of Technology
+
 
 ---
 
