@@ -4,6 +4,15 @@
 
 <div align="center">
   <p align="center">
+    <!-- Certification Badge -->
+    <a href="https://www.credly.com/badges">
+      <img src="https://img.shields.io/badge/CERTIFIED-DevOps%20%26%20SRE%20%28LFS162%29-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps and Site Reliability Engineering Certified" />
+    </a>
+    <br/><br/>
+    <!-- Academic Excellence -->
+    <a href="#">
+      <img src="https://img.shields.io/badge/CGPA-8.42-gold?style=for-the-badge&logo=graduationcap&logoColor=white" alt="CGPA 8.42" />
+    </a>
     <a href="https://github.com/luxmikant">
       <img src="https://img.shields.io/badge/SPECIALIST-CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
     </a>
@@ -25,11 +34,12 @@
 
 ### 🌌 Mission Control
 
-I am a **Final year cs student** at **Vellore Institute of Technology**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, **Backend System**, and **Competitive Programming**.
+I am a **Final year CS student** at **Vellore Institute of Technology** with a **CGPA of 8.42**, dedicated to building high-performance, distributed applications. I thrive at the intersection of **AI**, **Backend Systems**, **DevOps & SRE**, and **Competitive Programming**.
 
 - 🔭 **Active Development**: [SharCRM](https://github.com/luxmikant/SharCRM) & [TraderLens-AI](https://github.com/luxmikant/TraderLens-AI)
-- ⚡ **Core Strength**: Algorithmic problem solving and backend architecture.
-- 🧠 **Philosophy**: *"Simplicity is the soul of efficiency."*
+- 🏗️ **DevOps & SRE Certified**: LFS162 - Introduction to DevOps and Site Reliability Engineering
+- ⚡ **Core Strengths**: Algorithmic problem solving, backend architecture, system design, and infrastructure reliability
+- 🧠 **Philosophy**: *"Simplicity is the soul of efficiency. I don't just pick up tools — I find the right one, master it, and push it to its limits."*
 
 ---
 
@@ -39,6 +49,8 @@ I am a **Final year cs student** at **Vellore Institute of Technology**, dedicat
   <img src="https://skillicons.dev/icons?i=react,ts,vue,tailwind,nodejs,go,py,cpp,rust,docker,kubernetes,postgres,mongodb,git,linux,aws" />
 </div>
 
+**Featured Expertise**: Backend Systems | Cloud & DevOps | AI/ML | System Design | Infrastructure as Code
+
 ---
 
 ### 🚀 Featured Project: SharCRM
@@ -47,14 +59,9 @@ I am a **Final year cs student** at **Vellore Institute of Technology**, dedicat
   <a href="https://www.sharcrm.app/">
     <img src="https://raw.githubusercontent.com/luxmikant/SharCRM/main/ma-sharvari-ki-jai/client/public/logo.svg" width="150" alt="SharCRM Logo" />
   </a>
+
   <h4><b>SharCRM - AI-Powered CRM Ecosystem</b></h4>
   <p><i>"Enterprise-grade intelligence for every business."</i></p>
-  
-  <!-- Project Screenshot -->
-  <a href="https://www.sharcrm.app/">
-    <img src="sharcrm-demo.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
-  <br/><br/>
 
   <a href="https://www.sharcrm.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_App-brightgreen?style=for-the-badge&logo=render&logoColor=white" />
@@ -66,7 +73,7 @@ I am a **Final year cs student** at **Vellore Institute of Technology**, dedicat
 
 <br/>
 
-> **Key Innovation**: Integrated **Google Gemini AI** for automated message generation and customer health scoring. Built with a high-performance **Express 5** backend and a glass-morphic **React + Vite** frontend.
+> **Key Innovation**: Integrated **Google Gemini AI** for automated message generation and customer health scoring. Built with a high-performance **Express 5** backend and a glass-morphic **React + Vite** frontend. Deployed with containerization best practices and DevOps principles.
 
 ---
 
@@ -76,11 +83,11 @@ I am a **Final year cs student** at **Vellore Institute of Technology**, dedicat
   <tr>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/luxmikant/TraderLens-AI">TraderLens-AI</a></h4>
-      <p>Leveraging Python and AI to provide deep analytical insights into market trends and trading patterns.</p>
+      <p>Leveraging Python and AI to provide deep analytical insights into market trends and trading patterns. Advanced data processing and visualization.</p>
     </td>
     <td width="50%" valign="top">
       <h4>💻 <a href="https://github.com/luxmikant/Codegiest2025">Codegiest2025</a></h4>
-      <p>Exploration into cutting-edge web technologies and performance optimization for the next generation of web apps.</p>
+      <p>Exploration into cutting-edge web technologies and performance optimization for the next generation of web apps. Modern frontend architecture.</p>
     </td>
   </tr>
 </table>
@@ -101,9 +108,11 @@ I am a **Final year cs student** at **Vellore Institute of Technology**, dedicat
 
 ### 🏆 Milestones & Recognition
 
-- 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer).
-- 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0.
-- 🎯 **Competitive Programming**: **Specialist** on Codeforces | **400** AtCoder | **450+** LeetCode.
+- � **Certified DevOps & SRE**: LFS162 - Introduction to DevOps and Site Reliability Engineering (Linux Foundation)
+- 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer)
+- 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0
+- 🎯 **Competitive Programming**: **Specialist** on Codeforces | **400** AtCoder | **450+** LeetCode
+- 📊 **Academic Excellence**: CGPA **8.42** at Vellore Institute of Technology
 
 ---
 
