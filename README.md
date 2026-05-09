@@ -7,14 +7,14 @@
 ## 🏆 **Certified DevOps & Site Reliability Engineer**
 
 <div align="center">
-  <a href="https://www.credly.com/badges">
-    <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_IMAGE.png" width="300" alt="LFS162 - Introduction to DevOps and Site Reliability Engineering" style="border-radius: 10px;" />
+  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
+    <img src="https://images.credly.com/images/4d58f63a-4e13-4b08-a0b6-95f56c77b9de/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20%28LFS162%29.png" width="300" alt="LFS162 - Introduction to DevOps and Site Reliability Engineering" style="border-radius: 10px;" />
   </a>
   <br/>
   <h4>📚 Linux Foundation Education</h4>
   <p><strong>LFS162:</strong> Introduction to DevOps and Site Reliability Engineering</p>
-  <a href="https://www.credly.com/badges">
-    <img src="https://img.shields.io/badge/Verify%20Credential-Credly-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="Verify on Credly" />
+  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
+    <img src="https://img.shields.io/badge/View%20Credential-Credly-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="View on Credly" />
   </a>
 </div>
 
