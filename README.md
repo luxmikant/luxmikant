@@ -15,17 +15,18 @@
   </p>
 
   <h3>🚀 Architecting the Future of Scalable Systems</h3>
-
-  <!-- DevOps & SRE Certification Badge -->
-  <a href="https://www.credly.com/badges/7eb4ce56-0f9a-4037-84d3-c9ee4a8d96f9">
-    <img src="https://images.credly.com/images/4d58f63a-4e13-4b08-a0b6-95f56c77b9de/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20%28LFS162%29.png" width="280" alt="LFS162 - DevOps and Site Reliability Engineering" style="border-radius: 10px; margin: 20px 0;" />
-  </a>
   
   <p>
     <a href="mailto:luxmikant@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/luxmikant/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/luxmikant"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Portfolio-255E63?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
+
+  <!-- DevOps & SRE Certification Badge -->
+  <a href="https://github.com/luxmikant/luxmikant/blob/main/lfs162-introduction-to-devops-and-site-reliability-.png">
+    <img src="https://raw.githubusercontent.com/luxmikant/luxmikant/main/lfs162-introduction-to-devops-and-site-reliability-.png" width="280" alt="LFS162 - DevOps and Site Reliability Engineering" style="border-radius: 10px; margin: 20px 0;" />
+  </a>
 </div>
 
 ---
@@ -111,11 +112,10 @@ I am a **Final year CS student** at **Vellore Institute of Technology**, dedicat
 
 ### 🏆 Milestones & Recognition
 
-- � **Certified DevOps & SRE**: LFS162 - Introduction to DevOps and Site Reliability Engineering (Linux Foundation)
+- 🛡️ **Certified DevOps & SRE**: LFS162 - Introduction to DevOps and Site Reliability Engineering (Linux Foundation)
 - 📄 **Published Researcher**: Early detection of Alzheimer's disease using AI (Springer)
 - 🏆 **Hackathon Finalist**: Top 10 in Hack2Byte 2.0
 - 🎯 **Competitive Programming**: **Specialist** on Codeforces | **400** AtCoder | **450+** LeetCode
-
 
 ---
 
@@ -124,6 +124,7 @@ I am a **Final year CS student** at **Vellore Institute of Technology**, dedicat
   <br />
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
+
 # GitHub Profile 3D Contrib
 
 The `GitHub-Profile-3D-Contrib` workflow keeps the generated contribution calendar for this repository up to date. You can trigger it manually from the Actions tab or wait for the nightly run.
