@@ -2,13 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luxmikant&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
+---
+
+## 🏆 **Certified DevOps & Site Reliability Engineer**
+
+<div align="center">
+  <a href="https://www.credly.com/badges">
+    <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_IMAGE.png" width="300" alt="LFS162 - Introduction to DevOps and Site Reliability Engineering" style="border-radius: 10px;" />
+  </a>
+  <br/>
+  <h4>📚 Linux Foundation Education</h4>
+  <p><strong>LFS162:</strong> Introduction to DevOps and Site Reliability Engineering</p>
+  <a href="https://www.credly.com/badges">
+    <img src="https://img.shields.io/badge/Verify%20Credential-Credly-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="Verify on Credly" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <p align="center">
-    <!-- Certification Badge -->
-    <a href="https://www.credly.com/badges">
-      <img src="https://img.shields.io/badge/CERTIFIED-DevOps%20%26%20SRE%20%28LFS162%29-0066cc?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps and Site Reliability Engineering Certified" />
-    </a>
-    <br/><br/>
     <!-- Academic Excellence -->
     <a href="#">
       <img src="https://img.shields.io/badge/CGPA-8.42-gold?style=for-the-badge&logo=graduationcap&logoColor=white" alt="CGPA 8.42" />
