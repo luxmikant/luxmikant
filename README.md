@@ -61,6 +61,11 @@ I am a **Final year CS student** at **Vellore Institute of Technology**, dedicat
   <h4><b>SharCRM - AI-Powered CRM Ecosystem</b></h4>
   <p><i>"Enterprise-grade intelligence for every business."</i></p>
 
+  <!-- Project Demo Image -->
+  <a href="https://www.sharcrm.app/">
+    <img src="https://raw.githubusercontent.com/luxmikant/SharCRM/main/sharcrm-preview.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 15px 0;" />
+  </a>
+
   <a href="https://www.sharcrm.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_App-brightgreen?style=for-the-badge&logo=render&logoColor=white" />
   </a>
