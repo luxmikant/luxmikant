@@ -64,7 +64,7 @@ I am a **Final year CS student** at **Vellore Institute of Technology**, dedicat
 
   <!-- Project Demo Image -->
   <a href="https://www.sharcrm.app/">
-    <img src="https://raw.githubusercontent.com/luxmikant/SharCRM/main/sharcrm-preview.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 15px 0;" />
+    <img src="https://raw.githubusercontent.com/luxmikant/luxmikant/main/sharcrm-demo.png" width="800" alt="SharCRM Dashboard Demo" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 15px 0;" />
   </a>
 
   <a href="https://www.sharcrm.app/">
